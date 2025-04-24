@@ -21,37 +21,37 @@ This comprehensive methodology document outlines a structured approach to web re
 
   
 
-1. [[#Understanding Web Reconnaissance]]
+1. [[Understanding Web Reconnaissance]]
 
-2. [[#Passive Reconnaissance Techniques]]
+2. [[Passive Reconnaissance Techniques]]
 
-3. [[#Active Reconnaissance Techniques]]
+3. [[Active Reconnaissance Techniques]]
+4.  [[OSINT for Web Reconnaissance]]
+5. [[OSINT for Web Reconnaissance]]
 
-4. [[#OSINT for Web Reconnaissance]]
+6. [[Domain and Subdomain Enumeration]]
 
-5. [[#Domain and Subdomain Enumeration]]
+7. [[Technology Stack Identification]]
 
-6. [[#Technology Stack Identification]]
+8. [[API Reconnaissance]]
 
-7. [[#API Reconnaissance]]
+9. [[Cloud Infrastructure Reconnaissance]]
 
-8. [[#Cloud Infrastructure Reconnaissance]]
+10. [[Web Application Mapping]]
 
-9. #[[Web Application Mapping]]
+11. [[Content Discovery]]
 
-10. #[[#Content Discovery]]
+12. [[Authentication Mechanism Analysis]]
 
-11. #[[#Authentication Mechanism Analysis]]
+13. [[#Advanced Techniques for 2025]]
 
-12. #[[#Advanced Techniques for 2025]]
+14. [[#Reconnaissance Tools Catalog]]
 
-13. #[[#Reconnaissance Tools Catalog]]
+15. [[#Documentation and Reporting]]
 
-14. #[[#Documentation and Reporting]]
+16. [[Legal and Ethical Considerations]]
 
-15. #[[#Legal and Ethical Considerations]]
-
-16. [[#References]]
+17. [[References]]
 
   
 
