@@ -37,19 +37,19 @@ This comprehensive methodology document outlines a structured approach to web re
 
 8. [[#Cloud Infrastructure Reconnaissance]]
 
-9. [[#Web Application Mapping]]
+9. #[[Web Application Mapping]]
 
-10. [[#Content Discovery]]
+10. #[[#Content Discovery]]
 
-11. [[#Authentication Mechanism Analysis]]
+11. #[[#Authentication Mechanism Analysis]]
 
-12. [[#Advanced Techniques for 2025]]
+12. #[[#Advanced Techniques for 2025]]
 
-13. [[#Reconnaissance Tools Catalog]]
+13. #[[#Reconnaissance Tools Catalog]]
 
-14. [[#Documentation and Reporting]]
+14. #[[#Documentation and Reporting]]
 
-15. [[#Legal and Ethical Considerations]]
+15. #[[#Legal and Ethical Considerations]]
 
 16. [[#References]]
 
