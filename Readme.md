@@ -16,7 +16,7 @@ created: 2025-04-21
 
   
 
-Web reconnaissance is the foundational phase of any successful penetration testing or security assessment process. It involves systematically gathering information about target web applications, services, and infrastructure to identify potential entry points, vulnerabilities, and attack vectors. In 2025, web reconnaissance has evolved significantly with the integration of advanced technologies, AI-powered tools, and sophisticated methodologies to address the growing complexity of modern web environments.
+Web reconnaissance is the foundational phase of any successful penetration testing or security assessment process. It involves systematically gathering information about target web applications, services, and infrastructure to identify potential entry points, vulnerabilities, and attack vectors. In 2025, web reconnaissance has evolved significantly with the integration of advanced technologies, and sophisticated methodologies to address the growing complexity of modern web environments.
 
   
 
